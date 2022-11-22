@@ -1,0 +1,3 @@
+- Hi to whos reading this!
+- Im learning python and rn doing sort of a arkanoid game.
+- Like a old style game.
